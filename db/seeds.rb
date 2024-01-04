@@ -19,11 +19,11 @@ more_movies = [
   {:title => 'Nomadland', :rating => 'R',
     :release_date => '19-Feb-2021'},
   {:title => 'CODA', :rating => 'PG-13',
-    :release_date => '13-Aug-2021'}
+    :release_date => '13-Aug-2021'},
   {:title => 'Raging Bull', :rating => 'R',
-    :release_date => '19-Dec-1980'}
+    :release_date => '19-Dec-1980'},
   {:title => 'Memento', :rating => 'R',
-    :release_date => '28-Jun-2001'}
+    :release_date => '28-Jun-2001'},
   {:title => 'The Great Gatsby', :rating => 'PG-13',
     :release_date => '16-May-2013'}
 ]
